@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-bulb/static/css/main.e6c13ad2.css",
+    "main.js": "/react-bulb/static/js/main.b47cf9b7.js",
+    "static/js/453.fddd0239.chunk.js": "/react-bulb/static/js/453.fddd0239.chunk.js",
+    "index.html": "/react-bulb/index.html",
+    "main.e6c13ad2.css.map": "/react-bulb/static/css/main.e6c13ad2.css.map",
+    "main.b47cf9b7.js.map": "/react-bulb/static/js/main.b47cf9b7.js.map",
+    "453.fddd0239.chunk.js.map": "/react-bulb/static/js/453.fddd0239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b47cf9b7.js"
+  ]
+}
